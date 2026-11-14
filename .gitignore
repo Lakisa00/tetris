@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+leaderboard.json
+leaderboard.json.tmp
+saved_game.json
+saved_game.json.tmp
